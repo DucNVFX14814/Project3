@@ -1,0 +1,19 @@
+/* for Tablet */
+@media only screen and (max-width: 991px) and (min-width: 768px){
+	#banner {
+		border-bottom: 2px solid red;
+	}
+	#banner img {
+		display: none;
+	}
+	#table-img .col {
+		display: inline-block;
+		width: 44%;
+		margin-left: 4%;
+	}
+	footer .col {
+		width: 96%;
+		margin-left: 4%;
+
+	}
+}
